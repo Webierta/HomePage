@@ -14,6 +14,23 @@ Give a personal design touch to themes, links and background.
 
 Save all changes and put that page as your home page in your browser.
 
+## Start
+
+**HomePage** no installation required. To run it:
+
+1. Download and decompress on your system.
+2. Open hp.html file with your browser (see Requirements). Ready!
+
+## First steps
+
+For quick access, in the browser settings, set that page as the start page.
+
+Copy the images you want to use for your themes and links in the HP/images directory.
+
+From the main application window, open the menu with the icon in the upper right corner of the screen.
+
+Select the language of the application.
+
 ## Features
 
 ### Simple
@@ -42,7 +59,7 @@ Store all data in your own browser locally. To do this uses two modern HTML5 pro
 
 Use the website on different devices.
 
-##3 Security
+### Security
 
 Respect your privacy. No internet connection required and all data is stored locally. Free and open-source software.
 
