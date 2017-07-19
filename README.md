@@ -65,7 +65,7 @@ Respect your privacy. No internet connection required and all data is stored loc
 
 ### Multi-language
 
-Currently available in English and Spanish. Soon more translations available.
+Currently available in English and Spanish (ver [Crea tu página de inicio con tus enlaces favoritos](http://posits.x10host.com/crea-tu-pagina-de-inicio-con-tus-enlaces-favoritos/), in Spanish). Soon more translations available.
 
 ## Screenshot
 
