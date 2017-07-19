@@ -27,6 +27,10 @@ For quick access, in the browser settings, set that page as the start page.
 
 Copy the images you want to use for your themes and links in the HP/images directory.
 
+> The image supports most formats: png, jpg, gif, svg (even animated images).
+> Please note that images can be cropped differently to fit different screen sizes.
+> For the topics, the images that best adapt are landscape, and for the links square or round images.
+
 From the main application window, open the menu with the icon in the upper right corner of the screen.
 
 Select the language of the application.
@@ -80,4 +84,12 @@ Currently available in English and Spanish (ver [Crea tu página de inicio con t
 ![AgenDie Screenshot](http://posits.x10host.com/wp-content/uploads/2017/07/Captura-el-2017-07-17-a-las-22.20.18-fullpage.png)
 
 ![AgenDie Screenshot](http://posits.x10host.com/wp-content/uploads/2017/07/Captura-el-2017-07-17-a-las-22.16.03-fullpage.png)
+
+## Development planning
+
+- Export and import tools.
+- Alert to confirm delete theme.
+- Possibility to edit link (change name, image and url).
+- Possibility of ordering topics? Possibility of ordering links?
+- Change place of buttons to create / delete links?
 
