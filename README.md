@@ -2,6 +2,8 @@
 
 ![AgenDie Screenshot](http://posits.x10host.com/wp-content/uploads/2017/07/Captura-el-2017-07-17-a-las-22.38.32-fullpage.png)
 
+[Latest release](https://github.com/Webierta/HomePage/releases): version 0.0.2.
+
 ## Custom homepage with favorite links
 
 **HomePage** allows you to quickly and easily create a personalized homepage with your favorite links grouped by topic.
@@ -25,7 +27,7 @@ Save all changes and put that page as your home page in your browser.
 
 For quick access, in the browser settings, set that page as the start page.
 
-Copy the images you want to use for your themes and links in the HP/images directory.
+~~Copy the images you want to use for your themes and links in the HP/images directory.~~ (Not required since version 0.0.2).
 
 > The image supports most formats: png, jpg, gif, svg (even animated images).
 > Please note that images can be cropped differently to fit different screen sizes.
@@ -92,4 +94,5 @@ Currently available in English and Spanish (ver [Crea tu página de inicio con t
 - Possibility to edit link (change name, image and url).
 - Possibility of ordering topics? Possibility of ordering links?
 - Change place of buttons to create / delete links?
+- Working for conversion as Firefox extension.
 
