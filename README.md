@@ -6,6 +6,10 @@
 
 ## Custom homepage with favorite links
 
+Now also available to install as a **Firefox add-on**!
+
+[![Firefox add-on](https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_2.png)](https://addons.mozilla.org/en-US/firefox/addon/homepage/)
+
 **HomePage** allows you to quickly and easily create a personalized homepage with your favorite links grouped by topic.
 
 No need to install anything: Simply download, unzip and open hp.html file with your browser.
